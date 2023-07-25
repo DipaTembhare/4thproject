@@ -32,6 +32,7 @@ html,body{
 }
 #links a:hover{
     opacity: 1;
+    text-decoration: underline;
 }
 #menu{
     border-radius: 50px;
